@@ -1,0 +1,12 @@
+Line 56: Class MSComCtl2.DTPicker of control EmpDOJ was not a loaded control class.
+Line 68: Class MSComCtl2.DTPicker of control empDOB was not a loaded control class.
+Line 62: The property name _ExtentX in EmpDOJ is invalid.
+Line 63: The property name _ExtentY in EmpDOJ is invalid.
+Line 64: The property name _Version in EmpDOJ is invalid.
+Line 65: The property name Format in EmpDOJ is invalid.
+Line 66: The property name CurrentDate in EmpDOJ is invalid.
+Line 74: The property name _ExtentX in empDOB is invalid.
+Line 75: The property name _ExtentY in empDOB is invalid.
+Line 76: The property name _Version in empDOB is invalid.
+Line 77: The property name Format in empDOB is invalid.
+Line 78: The property name CurrentDate in empDOB is invalid.
